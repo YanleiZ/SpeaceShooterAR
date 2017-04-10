@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0e450b6a691eb4094b9c140311c706bd
+timeCreated: 1488865626
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Borg 9
+  fontNames:
+  - Borg 9
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
